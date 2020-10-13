@@ -1,0 +1,87 @@
+body {
+  margin: 0px;
+  height: 100vh;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+input[type='text'] {
+  width: 80%;
+  min-width: 300px;
+  max-width: 600px;
+  padding: 9px 20px;
+  height: 20px;
+  border: 0px;
+  border-radius: 19px 0px 0px 19px;
+  opacity: 0.6;
+}
+
+.button {
+  background-color: #4caf50;
+  border: none;
+  border-radius: 0px 19px 19px 0px;
+  color: white;
+  padding: 10px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+form {
+  width: 100%;
+}
+
+.cc-container {
+  height: 100%;
+
+  display: grid;
+  grid-template-columns: 1fr 2.5fr;
+  grid-template-rows: 60px 1fr 60px;
+  grid-template-areas:
+    'header header'
+    'room room'
+    'footer footer';
+}
+
+.cc-header {
+  grid-area: header;
+  background-color: grey;
+}
+
+.cc-footer {
+  grid-area: footer;
+  display: grid;
+  text-align: center;
+  background-color: grey;
+}
+
+.cc-room {
+  grid-area: room;
+}
+
+.cc-chats {
+  grid-area: chats;
+  background-color: rgb(193, 250, 174);
+}
+
+.cc-footer form {
+  align-self: center;
+  justify-self: center;
+}
+
+.cc-message {
+  margin: 10px;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.cc-me {
+  margin-left: 50px !important;
+  background-color: rgb(168, 151, 255);
+}
+
+.cc-others {
+  margin-right: 50px !important;
+  background-color: rgb(193, 250, 174);
+}
