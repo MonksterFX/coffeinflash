@@ -1,6 +1,6 @@
-# coffeinflash
+# coffeinflash (beta)
 
-Client site chat with no database driven by **socket.io, express and node.js**. This project is in POC aka BETA stadium. 
+Client site chat with no database driven by **socket.io, express and node.js**.
 
 ## install and run locally
 
