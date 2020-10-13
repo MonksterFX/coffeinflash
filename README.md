@@ -1,6 +1,6 @@
 # coffeinflash
 
-Client site chat with no database driven by **socket.io, express and node.js**.
+Client site chat with no database driven by **socket.io, express and node.js**. This project is in POC aka BETA stadium. 
 
 ## install and run locally
 
@@ -12,7 +12,9 @@ Run locally
 
 ```npm run dev```
 
-Go to `localhost:3000/{alias}`
+Connect with a random alias:
+
+`localhost:3000/{alias}`
 
 ## proposal for this project
 
