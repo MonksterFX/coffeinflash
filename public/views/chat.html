@@ -18,14 +18,9 @@
       <div class="cc-chats"></div>
       <div id="chat" class="cc-room"></div>
       <div class="cc-footer">
-        <form>
+        <form onSubmit="return chatSendMessage(this.form.msg.value)">
           <input type="text" id="cc-message-input" name="msg" />
-          <input
-            type="button"
-            class="button"
-            onclick="chatSendMessage(this.form.msg.value)"
-            value="SEND"
-          />
+          <input type="submit" class="button" value="SEND" />
         </form>
       </div>
     </div>

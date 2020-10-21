@@ -15,6 +15,7 @@ function setCurrentUserAlias(alias) {
 }
 
 function chatSendMessage(msg) {
+  alert('dwdwd')
   socket.emit('new-message', msg);
   addMessage(msg);
 }

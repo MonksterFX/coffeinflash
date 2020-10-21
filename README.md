@@ -1,3 +1,5 @@
+![Coffeinflash Logo](public/img/logo-300x300.png )
+
 # coffeinflash (beta)
 
 Client site chat with no database driven by **socket.io, express and node.js**.
