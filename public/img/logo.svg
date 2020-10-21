@@ -1,0 +1,27 @@
+<svg id="Gruppe_1" data-name="Gruppe 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300" viewBox="0 0 1000 1000">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fd9808;
+        filter: url(#filter);
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #505b4a;
+      }
+    </style>
+    <filter id="filter" x="64.906" y="830.875" width="869.938" height="132.25" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#505b4a"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="Abgerundetes_Rechteck_2" data-name="Abgerundetes Rechteck 2" class="cls-1" d="M64.9,830.864H934.855v32.272a100,100,0,0,1-100,100H164.9a100,100,0,0,1-100-100V830.864Z"/>
+  <path id="Abgerundetes_Rechteck_3" data-name="Abgerundetes Rechteck 3" class="cls-2" d="M167.011,463.9h668.9v6.209c0,182.254-147.746,330-330,330h-8.895c-182.253,0-330-147.746-330-330V463.9Z"/>
+  <path id="Rechteck_1" data-name="Rechteck 1" class="cls-2" d="M166.036,383.9H835.015v70.209H166.036V383.9Z"/>
+  <image id="Abgerundetes_Rechteck_1" data-name="Abgerundetes Rechteck 1" x="414" y="38" width="172" height="329" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAADQAAABjCAYAAADU8yOkAAADvElEQVR4nN2czYtOURjAfzNGkaYYURILUxY2WCBSNiyIkixIlCyUrwYzPspfML5mNqQRhZCJjbKxJEQ+IuUrIguSvc+hM93L7c773vece5/nnDPzW75zzvOc35z3nHvvee5M0+oNKwjEVGAc8EoyfUsoG6ATeC8t1CwZzIGJwA7gq3TgUELbk2/HZ+nAIYTakq+bYUA6eAih3UCrVnDfQpOTtaOGb6G9wPiRIjQd2KmdxKfQHmCsdhJfQu3JVp3nj3QiX0Jdvu5KfAjNArZ6yDOID6FOizZiaAvNATZ79FEX2q8cfwiaQguAdYrxa6IptE8xdl20hJYAa5RiF6Il5H3tpGgILQOWK8S1QkMoyNpJkRZaCSwVjumEtNBB5fE2RFJoLbBIaZzWSAqVWTvRPj5sAuYJxaqElFBHoPEPQUJoCzBXeFylqSrUHPq6k6eqkHkSnSk/rPJUERqdnLNFRRWhXclpzogQahWanWiuQ+aMbYrwWEQoI9SWnIJGSRkhIzNJSKZJ+pfiKmREtgnm/yYYaxDX41mzEUwQzG92ySfANIFYxmWMS1nflENemk4CybW44fKV64hcxtBjK9SuXUoU4Dpw01aoK7nViZluLHc5r+WQklwFbmMp5LUcUpLetFsjIe/lkBJcA26l3RoJRfXwVofD2Y+LhOYD60OM0AEzO/eyzYuEgh24O3Ak37SeULByiANXgLv55vWEhsPa6a31YS0hUw4J9t6mJf3AnVpNawkNu50tS15oVehyiAVm7Tyo1ywvNBxm52jRD7NCphyyWH88lbgM3C8KkBUaDrNzvFGDVGhjLOWQAi41mh0yQtEd6dagcO2kGKFDwOwAA3ThIvDQpn1LcvBxAPgEjBJI/gVYKFxAtpodEqF+wcQpHwWFzOw8sm2s9WqM5IvmQ+6oiwj1tw+2nAceu3SIXajhdSdPzELnXGeHyIWsd7YssQpdAJ6W6RirUHfZjjEKnQWele2sJVSlMtdTJXFsM3Sm7NpJiU3oWNUAMQmZtfO8apCYhEpdd/LEInRaYnaISKjSzpYlBqE+qdkhAqEBqbWTElqoLzkCECO0kNjaSQkpdBJ4IR00lNBAvfpOVUIJia+dlBBCv1xPclwI8fhwCnijlNf7DP3WWjspvoVOAK81E/gU+qlx3cnjU8isnbfaSXwJ/ZB4GrXBl5C5K3jnI5EPoe/aO1sWH0LeZgdPQs4VhCpo3ymYne2DvsZ/tITSf0akft3JoyU0I6mNij/vNELrX9OYEvy/F1u9AfwFAr91hZqbjCcAAAAASUVORK5CYII="/>
+</svg>
